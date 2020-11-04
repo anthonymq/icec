@@ -1,8 +1,8 @@
 ---
-header: "Maîtrise d'oeuvre<br/>de la conception à la réalisation"
-#subheader: "Welcome To Our Studio!"
+header: "Ingénierie Construction Environnement Conseil"
+#subheader: "Ingénierie Construction Environnement Conseil"
 imageFileName: "header-bg.png"
-imageLogo: "logo-inevia-signature-GA.jpg"
+imageLogo: "logo.png"
 jumpToAnchor: "La Société"
 jumpToAnchorText: "En savoir plus"
 ---
